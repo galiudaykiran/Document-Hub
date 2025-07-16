@@ -56,22 +56,31 @@ flutter run
 💡 Make sure your emulator is running or a device is connected.
 
 📸 Screenshots
+
+
 Home Screen
+
 !<img src = "https://github.com/user-attachments/assets/ea35b962-b376-4af7-97c6-23585f707a49" alt="Alt Text" width="300">
 
 Folder Creation 
-![WhatsApp Image 2025-07-16 at 18 54 24_9d590f44](https://github.com/user-attachments/assets/4b86f0cd-0813-4a77-8c8c-873d6c006442)
+!<img src = "https://github.com/user-attachments/assets/4b86f0cd-0813-4a77-8c8c-873d6c006442" alt="Alt Text" width="300">
+
 
 Folder Delection,Sharing,Rename,Set Cover Image
-![WhatsApp Image 2025-07-16 at 18 54 25_481baddf](https://github.com/user-attachments/assets/b4af7070-cf12-4008-8337-2f80fa158011)
+
+!<img src = "https://github.com/user-attachments/assets/b4af7070-cf12-4008-8337-2f80fa158011" alt="Alt Text" width="300">
+
 
 Folder options 
-![WhatsApp Image 2025-07-16 at 18 54 25_b36851a3](https://github.com/user-attachments/assets/91f47d3d-82f0-497e-aa8e-799997ef837d)    ![WhatsApp Image 2025-07-16 at 18 54 26_26a13243](https://github.com/user-attachments/assets/b5ef21cb-ce21-4ae3-b28a-1de75dd57fd4)
+!<img src = "https://github.com/user-attachments/assets/91f47d3d-82f0-497e-aa8e-799997ef837d" alt="Alt Text" width="300">  !<img src = "https://github.com/user-attachments/assets/b5ef21cb-ce21-4ae3-b28a-1de75dd57fd4" alt="Alt Text" width="300">
+
 
 Notes
-![WhatsApp Image 2025-07-16 at 18 54 26_a4042b3e](https://github.com/user-attachments/assets/d60cde97-207c-4985-836e-db5af807f7d3)
+!<img src = "https://github.com/user-attachments/assets/d60cde97-207c-4985-836e-db5af807f7d3" alt="Alt Text" width="300">
+
 
 PDF Maker
+!<img src = "https://github.com/user-attachments/assets/d60cde97-207c-4985-836e-db5af807f7d3" alt="Alt Text" width="300">
 ![WhatsApp Image 2025-07-16 at 18 54 26_3b96f942](https://github.com/user-attachments/assets/db1970e4-b8ae-46cc-9004-a295c4f98dad)    ![WhatsApp Image 2025-07-16 at 18 54 26_2cac7cf6](https://github.com/user-attachments/assets/b430d2a2-7aa9-444f-aff6-f5cdc61450e8)      ![WhatsApp Image 2025-07-16 at 18 54 27_75990f33](https://github.com/user-attachments/assets/8ce7c86b-dc47-48bf-b0f9-2dc68c285fb5)
 
 Saved PDF
