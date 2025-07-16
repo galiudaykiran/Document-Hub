@@ -1,53 +1,73 @@
 # Document Hub  – Flutter App
 
+
 📌 Project Overview
+Document Hub is a powerful and user-friendly mobile application built using Flutter, designed to help users organize, manage, and share documents efficiently. With a clean and professional UI inspired by modern Material Design 3 principles, the app allows users to create folders, add personal notes, convert content into PDFs, and share their documents with others — all while maintaining a seamless and intuitive user experience.
 
-Document Hub is a simple and clean mobile application built using Flutter that allows users to organize their documents into folders. The app features a visually enhanced user interface that follows modern design principles, offering a smooth and intuitive user experience without changing the original functionality. It is ideal for document categorization, quick folder search, and seamless folder creation.
+Whether you’re managing personal files, academic notes, or team documents, Document Hub provides an elegant and responsive interface that supports productivity on the go.
 
-🎯 Features
 
-📂 Folder-based document display with thumbnails
 
-🔍 Smart and responsive search bar
+🎯 Key Features
 
-➕ Floating Action Button to add new folders
+📂 Folder-Based Document Management
+Create, view, and organize documents under personalized folders.
 
-⚙️ Settings icon in the top app bar
+📝 Personal Notes for Each Folder
+Attach text-based notes to each folder — perfect for quick descriptions, annotations, or reminders.
 
-💡 Clean, modern, and responsive UI (Material Design 3)
+🔍 Smart Search Functionality
+Quickly search folders by name using the responsive and sleek search bar.
 
-🌗 Ready for dark mode support (optional)
+➕ Floating Action Button (FAB)
+Easily add new folders with a modern FAB interface.
 
-🛠️ Technologies Used
+⚙️ Settings Menu
+Access preferences and settings via the top-right icon in the app bar.
+
+🧾 PDF Maker
+Convert folder contents or personal notes into downloadable and shareable PDF documents.
+
+📤 One-Tap Sharing
+Share folders, notes, or generated PDFs via native sharing options (email, messaging, etc.).
+
+💡 Polished & Professional UI
+Smooth typography, rounded corners, subtle animations, and responsive layouts for a modern experience.
+
+🌙 Dark Mode Ready (optional)
+Designed to support light and dark themes with ThemeMode.system.
+
+
+
+🛠️ Tech Stack
+
 Flutter (Latest stable version)
 
-Dart programming language
+Dart language
 
-Material Design components
+Material Design 3
 
 Google Fonts (Poppins, Roboto)
 
-Flutter Icons (Material Icons)
+flutter_pdf (for PDF generation)
 
-Responsive Layouts using MediaQuery and LayoutBuilder
+share_plus (for sharing content)
 
-Animations using Hero, AnimatedContainer, and InkWell
+
 
 🚀 Getting Started
 Follow these steps to run the project locally:
 
-Prerequisites:
+
 Flutter SDK installed
 
-Android Studio / VS Code with Flutter extension
+Android Studio or VS Code
 
-A working emulator or physical device
+An emulator or physical Android/iOS device
+
 
 Installation:
 
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/Document-Hub.git
 cd Document-Hub
 flutter pub get
