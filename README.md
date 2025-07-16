@@ -79,7 +79,7 @@ An emulator or physical Android/iOS device
 
 Installation:
 
-git clone https://github.com/yourusername/Document-Hub.git
+git clone https://github.com/galiudaykiran/Document-Hub.git
 cd Document-Hub
 flutter pub get
 flutter run
