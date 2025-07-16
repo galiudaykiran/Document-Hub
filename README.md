@@ -8,6 +8,9 @@ Whether you’re managing personal files, academic notes, or team documents, Doc
 
 
 
+
+
+
 🎯 Key Features
 
 📂 Folder-Based Document Management
@@ -39,6 +42,9 @@ Designed to support light and dark themes with ThemeMode.system.
 
 
 
+
+
+
 🛠️ Tech Stack
 
 Flutter (Latest stable version)
@@ -55,6 +61,9 @@ share_plus (for sharing content)
 
 
 
+
+
+
 🚀 Getting Started
 Follow these steps to run the project locally:
 
@@ -66,6 +75,8 @@ Android Studio or VS Code
 An emulator or physical Android/iOS device
 
 
+
+
 Installation:
 
 git clone https://github.com/yourusername/Document-Hub.git
@@ -74,6 +85,9 @@ flutter pub get
 flutter run
 
 💡 Make sure your emulator is running or a device is connected.
+
+
+
 
 📸 Screenshots
 
@@ -143,6 +157,7 @@ Settings
 
 
 
+
 🧠 Design Principles
 This app was designed using the following principles:
 
@@ -153,6 +168,10 @@ Minimalism: Clean layout with essential elements only
 Accessibility: Tap targets, contrast ratios, and readable fonts
 
 Responsiveness: Works across different screen sizes
+
+
+
+
 
 🙌 Acknowledgements
 AI tools : GEMINI CLI, chatgpt 
