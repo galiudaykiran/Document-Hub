@@ -1,4 +1,4 @@
-# gallery_app
+# Document Hub
 
 A new Flutter project.
 
