@@ -57,7 +57,7 @@ flutter run
 
 📸 Screenshots
 Home Screen
-![WhatsApp Image 2025-07-16 at 18 54 24_45870d3b](https://github.com/user-attachments/assets/ea35b962-b376-4af7-97c6-23585f707a49 = 25x25)
+!<img src = "https://github.com/user-attachments/assets/ea35b962-b376-4af7-97c6-23585f707a49">
 
 Folder Creation 
 ![WhatsApp Image 2025-07-16 at 18 54 24_9d590f44](https://github.com/user-attachments/assets/4b86f0cd-0813-4a77-8c8c-873d6c006442)
