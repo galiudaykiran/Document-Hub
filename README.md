@@ -66,6 +66,8 @@ Home Screen
 
 
 Folder Creation 
+
+
 !<img src = "https://github.com/user-attachments/assets/4b86f0cd-0813-4a77-8c8c-873d6c006442" alt="Alt Text" width="300">
 
 
@@ -81,15 +83,22 @@ Folder Delection,Sharing,Rename,Set Cover Image
 
 
 Folder options 
+
+
+
 !<img src = "https://github.com/user-attachments/assets/91f47d3d-82f0-497e-aa8e-799997ef837d" alt="Alt Text" width="300"> 
 !<img src = "https://github.com/user-attachments/assets/b5ef21cb-ce21-4ae3-b28a-1de75dd57fd4" alt="Alt Text" width="300">
 
 
 Notes
+
+
+
 !<img src = "https://github.com/user-attachments/assets/d60cde97-207c-4985-836e-db5af807f7d3" alt="Alt Text" width="300">
 
 
 PDF Maker
+
 
 !<img src = "https://github.com/user-attachments/assets/d60cde97-207c-4985-836e-db5af807f7d3" alt="Alt Text" width="300">
 
@@ -100,10 +109,13 @@ PDF Maker
 
 Saved PDF
 
+
 ![WhatsApp Image 2025-07-16 at 18 54 27_ea260be6](https://github.com/user-attachments/assets/cf61a52f-a553-475e-836c-d2fa5f002deb)
 
 
 Settings
+
+
 
 ![WhatsApp Image 2025-07-16 at 18 54 27_4c5dc619](https://github.com/user-attachments/assets/0d33f747-de3d-44d7-9042-04f826959700)
 
